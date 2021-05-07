@@ -1,8 +1,23 @@
-# Student Record Management System
- 
-#OPEN THE SITE
+# Student Record Management System in PHP
 
-#LOGIN USING admin PASSWORD AND USERNAME
+**LOGIN DETAILS*
 
-#OPEN phpMyAdmin and see the student side information 
-#passwords and username
+Username : admin
+
+Password : admin
+
+**Thanks to Faith Awolu**
+
+DON'T FORGET TO CREATE A DATABASE NAMING "model" AND IMPORT THE DATBASE SQL FILE (model.sql)
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>> THE DATABASE FILE IS INSIDE "DATABASE" FOLDER!!
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+***** EMAIL:vekariyachintan404@gmail.com *****
+
+#THANK YOU FOR DOWNLOADING
